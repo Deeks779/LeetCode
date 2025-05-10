@@ -11,6 +11,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0017-letter-combinations-of-a-phone-number](https://github.com/Deeks779/LeetCode/tree/master/0017-letter-combinations-of-a-phone-number) |
 | [3412-permutation-difference-between-two-strings](https://github.com/Deeks779/LeetCode/tree/master/3412-permutation-difference-between-two-strings) |
+| [3567-convert-date-to-binary](https://github.com/Deeks779/LeetCode/tree/master/3567-convert-date-to-binary) |
 ## Backtracking
 |  |
 | ------- |
@@ -21,6 +22,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0319-bulb-switcher](https://github.com/Deeks779/LeetCode/tree/master/0319-bulb-switcher) |
 | [0400-nth-digit](https://github.com/Deeks779/LeetCode/tree/master/0400-nth-digit) |
 | [3172-divisible-and-non-divisible-sums-difference](https://github.com/Deeks779/LeetCode/tree/master/3172-divisible-and-non-divisible-sums-difference) |
+| [3567-convert-date-to-binary](https://github.com/Deeks779/LeetCode/tree/master/3567-convert-date-to-binary) |
 ## Binary Search
 |  |
 | ------- |

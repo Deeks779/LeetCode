@@ -51,4 +51,8 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0319-bulb-switcher](https://github.com/Deeks779/LeetCode/tree/master/0319-bulb-switcher) |
+## Linked List
+|  |
+| ------- |
+| [1765-merge-in-between-linked-lists](https://github.com/Deeks779/LeetCode/tree/master/1765-merge-in-between-linked-lists) |
 <!---LeetCode Topics End-->

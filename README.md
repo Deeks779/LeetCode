@@ -22,6 +22,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0319-bulb-switcher](https://github.com/Deeks779/LeetCode/tree/master/0319-bulb-switcher) |
 | [0400-nth-digit](https://github.com/Deeks779/LeetCode/tree/master/0400-nth-digit) |
+| [1406-subtract-the-product-and-sum-of-digits-of-an-integer](https://github.com/Deeks779/LeetCode/tree/master/1406-subtract-the-product-and-sum-of-digits-of-an-integer) |
 | [2383-add-two-integers](https://github.com/Deeks779/LeetCode/tree/master/2383-add-two-integers) |
 | [2491-smallest-even-multiple](https://github.com/Deeks779/LeetCode/tree/master/2491-smallest-even-multiple) |
 | [3172-divisible-and-non-divisible-sums-difference](https://github.com/Deeks779/LeetCode/tree/master/3172-divisible-and-non-divisible-sums-difference) |

@@ -16,6 +16,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1205-defanging-an-ip-address](https://github.com/Deeks779/LeetCode/tree/master/1205-defanging-an-ip-address) |
 | [2128-reverse-prefix-of-word](https://github.com/Deeks779/LeetCode/tree/master/2128-reverse-prefix-of-word) |
 | [3412-permutation-difference-between-two-strings](https://github.com/Deeks779/LeetCode/tree/master/3412-permutation-difference-between-two-strings) |
+| [3447-clear-digits](https://github.com/Deeks779/LeetCode/tree/master/3447-clear-digits) |
 | [3567-convert-date-to-binary](https://github.com/Deeks779/LeetCode/tree/master/3567-convert-date-to-binary) |
 ## Backtracking
 |  |
@@ -78,6 +79,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [2299-merge-nodes-in-between-zeros](https://github.com/Deeks779/LeetCode/tree/master/2299-merge-nodes-in-between-zeros) |
+| [3447-clear-digits](https://github.com/Deeks779/LeetCode/tree/master/3447-clear-digits) |
 ## Two Pointers
 |  |
 | ------- |
@@ -88,4 +90,5 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0020-valid-parentheses](https://github.com/Deeks779/LeetCode/tree/master/0020-valid-parentheses) |
 | [2128-reverse-prefix-of-word](https://github.com/Deeks779/LeetCode/tree/master/2128-reverse-prefix-of-word) |
+| [3447-clear-digits](https://github.com/Deeks779/LeetCode/tree/master/3447-clear-digits) |
 <!---LeetCode Topics End-->

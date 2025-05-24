@@ -40,11 +40,13 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Binary Search
 |  |
 | ------- |
+| [0034-find-first-and-last-position-of-element-in-sorted-array](https://github.com/Deeks779/LeetCode/tree/master/0034-find-first-and-last-position-of-element-in-sorted-array) |
 | [0400-nth-digit](https://github.com/Deeks779/LeetCode/tree/master/0400-nth-digit) |
 | [2210-find-target-indices-after-sorting-array](https://github.com/Deeks779/LeetCode/tree/master/2210-find-target-indices-after-sorting-array) |
 ## Array
 |  |
 | ------- |
+| [0034-find-first-and-last-position-of-element-in-sorted-array](https://github.com/Deeks779/LeetCode/tree/master/0034-find-first-and-last-position-of-element-in-sorted-array) |
 | [0075-sort-colors](https://github.com/Deeks779/LeetCode/tree/master/0075-sort-colors) |
 | [1137-height-checker](https://github.com/Deeks779/LeetCode/tree/master/1137-height-checker) |
 | [1227-number-of-equivalent-domino-pairs](https://github.com/Deeks779/LeetCode/tree/master/1227-number-of-equivalent-domino-pairs) |

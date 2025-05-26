@@ -19,6 +19,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [3412-permutation-difference-between-two-strings](https://github.com/Deeks779/LeetCode/tree/master/3412-permutation-difference-between-two-strings) |
 | [3447-clear-digits](https://github.com/Deeks779/LeetCode/tree/master/3447-clear-digits) |
 | [3567-convert-date-to-binary](https://github.com/Deeks779/LeetCode/tree/master/3567-convert-date-to-binary) |
+| [3768-check-if-digits-are-equal-in-string-after-operations-i](https://github.com/Deeks779/LeetCode/tree/master/3768-check-if-digits-are-equal-in-string-after-operations-i) |
 ## Backtracking
 |  |
 | ------- |
@@ -38,6 +39,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [3321-type-of-triangle](https://github.com/Deeks779/LeetCode/tree/master/3321-type-of-triangle) |
 | [3567-convert-date-to-binary](https://github.com/Deeks779/LeetCode/tree/master/3567-convert-date-to-binary) |
 | [3581-the-two-sneaky-numbers-of-digitville](https://github.com/Deeks779/LeetCode/tree/master/3581-the-two-sneaky-numbers-of-digitville) |
+| [3768-check-if-digits-are-equal-in-string-after-operations-i](https://github.com/Deeks779/LeetCode/tree/master/3768-check-if-digits-are-equal-in-string-after-operations-i) |
 ## Binary Search
 |  |
 | ------- |
@@ -87,11 +89,13 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [2491-smallest-even-multiple](https://github.com/Deeks779/LeetCode/tree/master/2491-smallest-even-multiple) |
 | [2507-number-of-common-factors](https://github.com/Deeks779/LeetCode/tree/master/2507-number-of-common-factors) |
+| [3768-check-if-digits-are-equal-in-string-after-operations-i](https://github.com/Deeks779/LeetCode/tree/master/3768-check-if-digits-are-equal-in-string-after-operations-i) |
 ## Simulation
 |  |
 | ------- |
 | [2299-merge-nodes-in-between-zeros](https://github.com/Deeks779/LeetCode/tree/master/2299-merge-nodes-in-between-zeros) |
 | [3447-clear-digits](https://github.com/Deeks779/LeetCode/tree/master/3447-clear-digits) |
+| [3768-check-if-digits-are-equal-in-string-after-operations-i](https://github.com/Deeks779/LeetCode/tree/master/3768-check-if-digits-are-equal-in-string-after-operations-i) |
 ## Two Pointers
 |  |
 | ------- |
@@ -116,4 +120,8 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [2507-number-of-common-factors](https://github.com/Deeks779/LeetCode/tree/master/2507-number-of-common-factors) |
+## Combinatorics
+|  |
+| ------- |
+| [3768-check-if-digits-are-equal-in-string-after-operations-i](https://github.com/Deeks779/LeetCode/tree/master/3768-check-if-digits-are-equal-in-string-after-operations-i) |
 <!---LeetCode Topics End-->

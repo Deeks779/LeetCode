@@ -66,6 +66,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1137-height-checker](https://github.com/Deeks779/LeetCode/tree/master/1137-height-checker) |
 | [1227-number-of-equivalent-domino-pairs](https://github.com/Deeks779/LeetCode/tree/master/1227-number-of-equivalent-domino-pairs) |
 | [1293-three-consecutive-odds](https://github.com/Deeks779/LeetCode/tree/master/1293-three-consecutive-odds) |
+| [1497-design-a-stack-with-increment-operation](https://github.com/Deeks779/LeetCode/tree/master/1497-design-a-stack-with-increment-operation) |
 | [1528-kids-with-the-greatest-number-of-candies](https://github.com/Deeks779/LeetCode/tree/master/1528-kids-with-the-greatest-number-of-candies) |
 | [1570-final-prices-with-a-special-discount-in-a-shop](https://github.com/Deeks779/LeetCode/tree/master/1570-final-prices-with-a-special-discount-in-a-shop) |
 | [2210-find-target-indices-after-sorting-array](https://github.com/Deeks779/LeetCode/tree/master/2210-find-target-indices-after-sorting-array) |
@@ -122,6 +123,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0020-valid-parentheses](https://github.com/Deeks779/LeetCode/tree/master/0020-valid-parentheses) |
+| [1497-design-a-stack-with-increment-operation](https://github.com/Deeks779/LeetCode/tree/master/1497-design-a-stack-with-increment-operation) |
 | [1570-final-prices-with-a-special-discount-in-a-shop](https://github.com/Deeks779/LeetCode/tree/master/1570-final-prices-with-a-special-discount-in-a-shop) |
 | [2128-reverse-prefix-of-word](https://github.com/Deeks779/LeetCode/tree/master/2128-reverse-prefix-of-word) |
 | [2456-construct-smallest-number-from-di-string](https://github.com/Deeks779/LeetCode/tree/master/2456-construct-smallest-number-from-di-string) |
@@ -147,4 +149,8 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0979-di-string-match](https://github.com/Deeks779/LeetCode/tree/master/0979-di-string-match) |
 | [2456-construct-smallest-number-from-di-string](https://github.com/Deeks779/LeetCode/tree/master/2456-construct-smallest-number-from-di-string) |
+## Design
+|  |
+| ------- |
+| [1497-design-a-stack-with-increment-operation](https://github.com/Deeks779/LeetCode/tree/master/1497-design-a-stack-with-increment-operation) |
 <!---LeetCode Topics End-->

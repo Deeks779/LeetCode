@@ -72,6 +72,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1497-design-a-stack-with-increment-operation](https://github.com/Deeks779/LeetCode/tree/master/1497-design-a-stack-with-increment-operation) |
 | [1528-kids-with-the-greatest-number-of-candies](https://github.com/Deeks779/LeetCode/tree/master/1528-kids-with-the-greatest-number-of-candies) |
 | [1570-final-prices-with-a-special-discount-in-a-shop](https://github.com/Deeks779/LeetCode/tree/master/1570-final-prices-with-a-special-discount-in-a-shop) |
+| [1802-number-of-students-unable-to-eat-lunch](https://github.com/Deeks779/LeetCode/tree/master/1802-number-of-students-unable-to-eat-lunch) |
 | [1951-find-the-winner-of-the-circular-game](https://github.com/Deeks779/LeetCode/tree/master/1951-find-the-winner-of-the-circular-game) |
 | [2210-find-target-indices-after-sorting-array](https://github.com/Deeks779/LeetCode/tree/master/2210-find-target-indices-after-sorting-array) |
 | [3194-find-words-containing-character](https://github.com/Deeks779/LeetCode/tree/master/3194-find-words-containing-character) |
@@ -115,6 +116,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0657-robot-return-to-origin](https://github.com/Deeks779/LeetCode/tree/master/0657-robot-return-to-origin) |
 | [0682-baseball-game](https://github.com/Deeks779/LeetCode/tree/master/0682-baseball-game) |
 | [0987-reveal-cards-in-increasing-order](https://github.com/Deeks779/LeetCode/tree/master/0987-reveal-cards-in-increasing-order) |
+| [1802-number-of-students-unable-to-eat-lunch](https://github.com/Deeks779/LeetCode/tree/master/1802-number-of-students-unable-to-eat-lunch) |
 | [1951-find-the-winner-of-the-circular-game](https://github.com/Deeks779/LeetCode/tree/master/1951-find-the-winner-of-the-circular-game) |
 | [2299-merge-nodes-in-between-zeros](https://github.com/Deeks779/LeetCode/tree/master/2299-merge-nodes-in-between-zeros) |
 | [3447-clear-digits](https://github.com/Deeks779/LeetCode/tree/master/3447-clear-digits) |
@@ -134,6 +136,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0682-baseball-game](https://github.com/Deeks779/LeetCode/tree/master/0682-baseball-game) |
 | [1497-design-a-stack-with-increment-operation](https://github.com/Deeks779/LeetCode/tree/master/1497-design-a-stack-with-increment-operation) |
 | [1570-final-prices-with-a-special-discount-in-a-shop](https://github.com/Deeks779/LeetCode/tree/master/1570-final-prices-with-a-special-discount-in-a-shop) |
+| [1802-number-of-students-unable-to-eat-lunch](https://github.com/Deeks779/LeetCode/tree/master/1802-number-of-students-unable-to-eat-lunch) |
 | [2128-reverse-prefix-of-word](https://github.com/Deeks779/LeetCode/tree/master/2128-reverse-prefix-of-word) |
 | [2456-construct-smallest-number-from-di-string](https://github.com/Deeks779/LeetCode/tree/master/2456-construct-smallest-number-from-di-string) |
 | [3447-clear-digits](https://github.com/Deeks779/LeetCode/tree/master/3447-clear-digits) |
@@ -166,6 +169,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0987-reveal-cards-in-increasing-order](https://github.com/Deeks779/LeetCode/tree/master/0987-reveal-cards-in-increasing-order) |
+| [1802-number-of-students-unable-to-eat-lunch](https://github.com/Deeks779/LeetCode/tree/master/1802-number-of-students-unable-to-eat-lunch) |
 | [1951-find-the-winner-of-the-circular-game](https://github.com/Deeks779/LeetCode/tree/master/1951-find-the-winner-of-the-circular-game) |
 ## Recursion
 |  |

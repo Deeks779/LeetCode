@@ -68,6 +68,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0682-baseball-game](https://github.com/Deeks779/LeetCode/tree/master/0682-baseball-game) |
 | [0979-di-string-match](https://github.com/Deeks779/LeetCode/tree/master/0979-di-string-match) |
 | [0987-reveal-cards-in-increasing-order](https://github.com/Deeks779/LeetCode/tree/master/0987-reveal-cards-in-increasing-order) |
+| [1027-sum-of-even-numbers-after-queries](https://github.com/Deeks779/LeetCode/tree/master/1027-sum-of-even-numbers-after-queries) |
 | [1137-height-checker](https://github.com/Deeks779/LeetCode/tree/master/1137-height-checker) |
 | [1227-number-of-equivalent-domino-pairs](https://github.com/Deeks779/LeetCode/tree/master/1227-number-of-equivalent-domino-pairs) |
 | [1293-three-consecutive-odds](https://github.com/Deeks779/LeetCode/tree/master/1293-three-consecutive-odds) |
@@ -121,6 +122,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0657-robot-return-to-origin](https://github.com/Deeks779/LeetCode/tree/master/0657-robot-return-to-origin) |
 | [0682-baseball-game](https://github.com/Deeks779/LeetCode/tree/master/0682-baseball-game) |
 | [0987-reveal-cards-in-increasing-order](https://github.com/Deeks779/LeetCode/tree/master/0987-reveal-cards-in-increasing-order) |
+| [1027-sum-of-even-numbers-after-queries](https://github.com/Deeks779/LeetCode/tree/master/1027-sum-of-even-numbers-after-queries) |
 | [1802-number-of-students-unable-to-eat-lunch](https://github.com/Deeks779/LeetCode/tree/master/1802-number-of-students-unable-to-eat-lunch) |
 | [1951-find-the-winner-of-the-circular-game](https://github.com/Deeks779/LeetCode/tree/master/1951-find-the-winner-of-the-circular-game) |
 | [2195-time-needed-to-buy-tickets](https://github.com/Deeks779/LeetCode/tree/master/2195-time-needed-to-buy-tickets) |

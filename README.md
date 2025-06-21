@@ -209,4 +209,8 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [3600-find-the-k-th-character-in-string-game-i](https://github.com/Deeks779/LeetCode/tree/master/3600-find-the-k-th-character-in-string-game-i) |
+## Database
+|  |
+| ------- |
+| [0175-combine-two-tables](https://github.com/Deeks779/LeetCode/tree/master/0175-combine-two-tables) |
 <!---LeetCode Topics End-->

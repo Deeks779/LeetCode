@@ -78,6 +78,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0979-di-string-match](https://github.com/Deeks779/LeetCode/tree/master/0979-di-string-match) |
 | [0987-reveal-cards-in-increasing-order](https://github.com/Deeks779/LeetCode/tree/master/0987-reveal-cards-in-increasing-order) |
 | [1027-sum-of-even-numbers-after-queries](https://github.com/Deeks779/LeetCode/tree/master/1027-sum-of-even-numbers-after-queries) |
+| [1037-minimum-number-of-k-consecutive-bit-flips](https://github.com/Deeks779/LeetCode/tree/master/1037-minimum-number-of-k-consecutive-bit-flips) |
 | [1137-height-checker](https://github.com/Deeks779/LeetCode/tree/master/1137-height-checker) |
 | [1227-number-of-equivalent-domino-pairs](https://github.com/Deeks779/LeetCode/tree/master/1227-number-of-equivalent-domino-pairs) |
 | [1293-three-consecutive-odds](https://github.com/Deeks779/LeetCode/tree/master/1293-three-consecutive-odds) |
@@ -211,6 +212,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0969-number-of-recent-calls](https://github.com/Deeks779/LeetCode/tree/master/0969-number-of-recent-calls) |
 | [0987-reveal-cards-in-increasing-order](https://github.com/Deeks779/LeetCode/tree/master/0987-reveal-cards-in-increasing-order) |
+| [1037-minimum-number-of-k-consecutive-bit-flips](https://github.com/Deeks779/LeetCode/tree/master/1037-minimum-number-of-k-consecutive-bit-flips) |
 | [1802-number-of-students-unable-to-eat-lunch](https://github.com/Deeks779/LeetCode/tree/master/1802-number-of-students-unable-to-eat-lunch) |
 | [1951-find-the-winner-of-the-circular-game](https://github.com/Deeks779/LeetCode/tree/master/1951-find-the-winner-of-the-circular-game) |
 | [2195-time-needed-to-buy-tickets](https://github.com/Deeks779/LeetCode/tree/master/2195-time-needed-to-buy-tickets) |
@@ -228,6 +230,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Bit Manipulation
 |  |
 | ------- |
+| [1037-minimum-number-of-k-consecutive-bit-flips](https://github.com/Deeks779/LeetCode/tree/master/1037-minimum-number-of-k-consecutive-bit-flips) |
 | [3475-minimum-operations-to-make-binary-array-elements-equal-to-one-i](https://github.com/Deeks779/LeetCode/tree/master/3475-minimum-operations-to-make-binary-array-elements-equal-to-one-i) |
 | [3600-find-the-k-th-character-in-string-game-i](https://github.com/Deeks779/LeetCode/tree/master/3600-find-the-k-th-character-in-string-game-i) |
 ## Database
@@ -240,6 +243,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0003-longest-substring-without-repeating-characters](https://github.com/Deeks779/LeetCode/tree/master/0003-longest-substring-without-repeating-characters) |
+| [1037-minimum-number-of-k-consecutive-bit-flips](https://github.com/Deeks779/LeetCode/tree/master/1037-minimum-number-of-k-consecutive-bit-flips) |
 | [3475-minimum-operations-to-make-binary-array-elements-equal-to-one-i](https://github.com/Deeks779/LeetCode/tree/master/3475-minimum-operations-to-make-binary-array-elements-equal-to-one-i) |
 ## Ordered Set
 |  |
@@ -248,5 +252,6 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Prefix Sum
 |  |
 | ------- |
+| [1037-minimum-number-of-k-consecutive-bit-flips](https://github.com/Deeks779/LeetCode/tree/master/1037-minimum-number-of-k-consecutive-bit-flips) |
 | [3475-minimum-operations-to-make-binary-array-elements-equal-to-one-i](https://github.com/Deeks779/LeetCode/tree/master/3475-minimum-operations-to-make-binary-array-elements-equal-to-one-i) |
 <!---LeetCode Topics End-->

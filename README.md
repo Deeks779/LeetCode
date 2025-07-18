@@ -24,6 +24,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0020-valid-parentheses](https://github.com/Deeks779/LeetCode/tree/master/0020-valid-parentheses) |
 | [0657-robot-return-to-origin](https://github.com/Deeks779/LeetCode/tree/master/0657-robot-return-to-origin) |
 | [0979-di-string-match](https://github.com/Deeks779/LeetCode/tree/master/0979-di-string-match) |
+| [1078-remove-outermost-parentheses](https://github.com/Deeks779/LeetCode/tree/master/1078-remove-outermost-parentheses) |
 | [1205-defanging-an-ip-address](https://github.com/Deeks779/LeetCode/tree/master/1205-defanging-an-ip-address) |
 | [1797-goal-parser-interpretation](https://github.com/Deeks779/LeetCode/tree/master/1797-goal-parser-interpretation) |
 | [2128-reverse-prefix-of-word](https://github.com/Deeks779/LeetCode/tree/master/2128-reverse-prefix-of-word) |
@@ -176,6 +177,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0020-valid-parentheses](https://github.com/Deeks779/LeetCode/tree/master/0020-valid-parentheses) |
 | [0682-baseball-game](https://github.com/Deeks779/LeetCode/tree/master/0682-baseball-game) |
+| [1078-remove-outermost-parentheses](https://github.com/Deeks779/LeetCode/tree/master/1078-remove-outermost-parentheses) |
 | [1497-design-a-stack-with-increment-operation](https://github.com/Deeks779/LeetCode/tree/master/1497-design-a-stack-with-increment-operation) |
 | [1570-final-prices-with-a-special-discount-in-a-shop](https://github.com/Deeks779/LeetCode/tree/master/1570-final-prices-with-a-special-discount-in-a-shop) |
 | [1802-number-of-students-unable-to-eat-lunch](https://github.com/Deeks779/LeetCode/tree/master/1802-number-of-students-unable-to-eat-lunch) |

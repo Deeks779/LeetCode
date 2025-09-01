@@ -9,6 +9,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0141-linked-list-cycle](https://github.com/Deeks779/LeetCode/tree/master/0141-linked-list-cycle) |
 | [0202-happy-number](https://github.com/Deeks779/LeetCode/tree/master/0202-happy-number) |
 | [1227-number-of-equivalent-domino-pairs](https://github.com/Deeks779/LeetCode/tree/master/1227-number-of-equivalent-domino-pairs) |
+| [1987-substrings-of-size-three-with-distinct-characters](https://github.com/Deeks779/LeetCode/tree/master/1987-substrings-of-size-three-with-distinct-characters) |
 | [2116-count-number-of-pairs-with-absolute-difference-k](https://github.com/Deeks779/LeetCode/tree/master/2116-count-number-of-pairs-with-absolute-difference-k) |
 | [2442-number-of-arithmetic-triplets](https://github.com/Deeks779/LeetCode/tree/master/2442-number-of-arithmetic-triplets) |
 | [2447-merge-similar-items](https://github.com/Deeks779/LeetCode/tree/master/2447-merge-similar-items) |
@@ -32,6 +33,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1737-maximum-nesting-depth-of-the-parentheses](https://github.com/Deeks779/LeetCode/tree/master/1737-maximum-nesting-depth-of-the-parentheses) |
 | [1797-goal-parser-interpretation](https://github.com/Deeks779/LeetCode/tree/master/1797-goal-parser-interpretation) |
 | [1894-merge-strings-alternately](https://github.com/Deeks779/LeetCode/tree/master/1894-merge-strings-alternately) |
+| [1987-substrings-of-size-three-with-distinct-characters](https://github.com/Deeks779/LeetCode/tree/master/1987-substrings-of-size-three-with-distinct-characters) |
 | [2128-reverse-prefix-of-word](https://github.com/Deeks779/LeetCode/tree/master/2128-reverse-prefix-of-word) |
 | [2456-construct-smallest-number-from-di-string](https://github.com/Deeks779/LeetCode/tree/master/2456-construct-smallest-number-from-di-string) |
 | [2886-faulty-keyboard](https://github.com/Deeks779/LeetCode/tree/master/2886-faulty-keyboard) |
@@ -133,6 +135,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [1137-height-checker](https://github.com/Deeks779/LeetCode/tree/master/1137-height-checker) |
 | [1227-number-of-equivalent-domino-pairs](https://github.com/Deeks779/LeetCode/tree/master/1227-number-of-equivalent-domino-pairs) |
+| [1987-substrings-of-size-three-with-distinct-characters](https://github.com/Deeks779/LeetCode/tree/master/1987-substrings-of-size-three-with-distinct-characters) |
 | [2116-count-number-of-pairs-with-absolute-difference-k](https://github.com/Deeks779/LeetCode/tree/master/2116-count-number-of-pairs-with-absolute-difference-k) |
 | [3019-furthest-point-from-origin](https://github.com/Deeks779/LeetCode/tree/master/3019-furthest-point-from-origin) |
 | [3753-maximum-difference-between-even-and-odd-frequency-i](https://github.com/Deeks779/LeetCode/tree/master/3753-maximum-difference-between-even-and-odd-frequency-i) |
@@ -281,6 +284,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0003-longest-substring-without-repeating-characters](https://github.com/Deeks779/LeetCode/tree/master/0003-longest-substring-without-repeating-characters) |
 | [1037-minimum-number-of-k-consecutive-bit-flips](https://github.com/Deeks779/LeetCode/tree/master/1037-minimum-number-of-k-consecutive-bit-flips) |
 | [1755-defuse-the-bomb](https://github.com/Deeks779/LeetCode/tree/master/1755-defuse-the-bomb) |
+| [1987-substrings-of-size-three-with-distinct-characters](https://github.com/Deeks779/LeetCode/tree/master/1987-substrings-of-size-three-with-distinct-characters) |
 | [3475-minimum-operations-to-make-binary-array-elements-equal-to-one-i](https://github.com/Deeks779/LeetCode/tree/master/3475-minimum-operations-to-make-binary-array-elements-equal-to-one-i) |
 | [3543-count-substrings-that-satisfy-k-constraint-i](https://github.com/Deeks779/LeetCode/tree/master/3543-count-substrings-that-satisfy-k-constraint-i) |
 ## Ordered Set

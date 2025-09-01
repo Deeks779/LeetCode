@@ -94,6 +94,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1528-kids-with-the-greatest-number-of-candies](https://github.com/Deeks779/LeetCode/tree/master/1528-kids-with-the-greatest-number-of-candies) |
 | [1552-build-an-array-with-stack-operations](https://github.com/Deeks779/LeetCode/tree/master/1552-build-an-array-with-stack-operations) |
 | [1570-final-prices-with-a-special-discount-in-a-shop](https://github.com/Deeks779/LeetCode/tree/master/1570-final-prices-with-a-special-discount-in-a-shop) |
+| [1755-defuse-the-bomb](https://github.com/Deeks779/LeetCode/tree/master/1755-defuse-the-bomb) |
 | [1802-number-of-students-unable-to-eat-lunch](https://github.com/Deeks779/LeetCode/tree/master/1802-number-of-students-unable-to-eat-lunch) |
 | [1951-find-the-winner-of-the-circular-game](https://github.com/Deeks779/LeetCode/tree/master/1951-find-the-winner-of-the-circular-game) |
 | [2116-count-number-of-pairs-with-absolute-difference-k](https://github.com/Deeks779/LeetCode/tree/master/2116-count-number-of-pairs-with-absolute-difference-k) |
@@ -278,6 +279,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0003-longest-substring-without-repeating-characters](https://github.com/Deeks779/LeetCode/tree/master/0003-longest-substring-without-repeating-characters) |
 | [1037-minimum-number-of-k-consecutive-bit-flips](https://github.com/Deeks779/LeetCode/tree/master/1037-minimum-number-of-k-consecutive-bit-flips) |
+| [1755-defuse-the-bomb](https://github.com/Deeks779/LeetCode/tree/master/1755-defuse-the-bomb) |
 | [3475-minimum-operations-to-make-binary-array-elements-equal-to-one-i](https://github.com/Deeks779/LeetCode/tree/master/3475-minimum-operations-to-make-binary-array-elements-equal-to-one-i) |
 ## Ordered Set
 |  |

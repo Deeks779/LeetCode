@@ -8,10 +8,11 @@ public:
         }
         int distictN=static_cast<int>(distictNum.size()),ans=0;
         for(int i=0;i<n;i++){
-            set<int> temp;
+            // set<int> temp;
+            distictNum.clear();
             for(int j=i;j<n;j++){
-                temp.insert(nums[j]);
-                if(static_cast<int>(temp.size())==distictN) ans++;
+                distictNum.insert(nums[j]);
+                if(static_cast<int>(distictNum.size())==distictN) ans++;
             }
         }
         return ans;

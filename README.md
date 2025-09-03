@@ -10,6 +10,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0202-happy-number](https://github.com/Deeks779/LeetCode/tree/master/0202-happy-number) |
 | [1227-number-of-equivalent-domino-pairs](https://github.com/Deeks779/LeetCode/tree/master/1227-number-of-equivalent-domino-pairs) |
 | [1370-count-number-of-nice-subarrays](https://github.com/Deeks779/LeetCode/tree/master/1370-count-number-of-nice-subarrays) |
+| [1460-number-of-substrings-containing-all-three-characters](https://github.com/Deeks779/LeetCode/tree/master/1460-number-of-substrings-containing-all-three-characters) |
 | [1987-substrings-of-size-three-with-distinct-characters](https://github.com/Deeks779/LeetCode/tree/master/1987-substrings-of-size-three-with-distinct-characters) |
 | [2116-count-number-of-pairs-with-absolute-difference-k](https://github.com/Deeks779/LeetCode/tree/master/2116-count-number-of-pairs-with-absolute-difference-k) |
 | [2442-number-of-arithmetic-triplets](https://github.com/Deeks779/LeetCode/tree/master/2442-number-of-arithmetic-triplets) |
@@ -33,6 +34,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0979-di-string-match](https://github.com/Deeks779/LeetCode/tree/master/0979-di-string-match) |
 | [1078-remove-outermost-parentheses](https://github.com/Deeks779/LeetCode/tree/master/1078-remove-outermost-parentheses) |
 | [1205-defanging-an-ip-address](https://github.com/Deeks779/LeetCode/tree/master/1205-defanging-an-ip-address) |
+| [1460-number-of-substrings-containing-all-three-characters](https://github.com/Deeks779/LeetCode/tree/master/1460-number-of-substrings-containing-all-three-characters) |
 | [1737-maximum-nesting-depth-of-the-parentheses](https://github.com/Deeks779/LeetCode/tree/master/1737-maximum-nesting-depth-of-the-parentheses) |
 | [1797-goal-parser-interpretation](https://github.com/Deeks779/LeetCode/tree/master/1797-goal-parser-interpretation) |
 | [1894-merge-strings-alternately](https://github.com/Deeks779/LeetCode/tree/master/1894-merge-strings-alternately) |
@@ -294,6 +296,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0003-longest-substring-without-repeating-characters](https://github.com/Deeks779/LeetCode/tree/master/0003-longest-substring-without-repeating-characters) |
 | [1037-minimum-number-of-k-consecutive-bit-flips](https://github.com/Deeks779/LeetCode/tree/master/1037-minimum-number-of-k-consecutive-bit-flips) |
 | [1370-count-number-of-nice-subarrays](https://github.com/Deeks779/LeetCode/tree/master/1370-count-number-of-nice-subarrays) |
+| [1460-number-of-substrings-containing-all-three-characters](https://github.com/Deeks779/LeetCode/tree/master/1460-number-of-substrings-containing-all-three-characters) |
 | [1755-defuse-the-bomb](https://github.com/Deeks779/LeetCode/tree/master/1755-defuse-the-bomb) |
 | [1987-substrings-of-size-three-with-distinct-characters](https://github.com/Deeks779/LeetCode/tree/master/1987-substrings-of-size-three-with-distinct-characters) |
 | [2856-count-complete-subarrays-in-an-array](https://github.com/Deeks779/LeetCode/tree/master/2856-count-complete-subarrays-in-an-array) |

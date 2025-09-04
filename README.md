@@ -101,6 +101,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1227-number-of-equivalent-domino-pairs](https://github.com/Deeks779/LeetCode/tree/master/1227-number-of-equivalent-domino-pairs) |
 | [1293-three-consecutive-odds](https://github.com/Deeks779/LeetCode/tree/master/1293-three-consecutive-odds) |
 | [1370-count-number-of-nice-subarrays](https://github.com/Deeks779/LeetCode/tree/master/1370-count-number-of-nice-subarrays) |
+| [1445-number-of-sub-arrays-of-size-k-and-average-greater-than-or-equal-to-threshold](https://github.com/Deeks779/LeetCode/tree/master/1445-number-of-sub-arrays-of-size-k-and-average-greater-than-or-equal-to-threshold) |
 | [1497-design-a-stack-with-increment-operation](https://github.com/Deeks779/LeetCode/tree/master/1497-design-a-stack-with-increment-operation) |
 | [1528-kids-with-the-greatest-number-of-candies](https://github.com/Deeks779/LeetCode/tree/master/1528-kids-with-the-greatest-number-of-candies) |
 | [1552-build-an-array-with-stack-operations](https://github.com/Deeks779/LeetCode/tree/master/1552-build-an-array-with-stack-operations) |
@@ -297,6 +298,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0003-longest-substring-without-repeating-characters](https://github.com/Deeks779/LeetCode/tree/master/0003-longest-substring-without-repeating-characters) |
 | [1037-minimum-number-of-k-consecutive-bit-flips](https://github.com/Deeks779/LeetCode/tree/master/1037-minimum-number-of-k-consecutive-bit-flips) |
 | [1370-count-number-of-nice-subarrays](https://github.com/Deeks779/LeetCode/tree/master/1370-count-number-of-nice-subarrays) |
+| [1445-number-of-sub-arrays-of-size-k-and-average-greater-than-or-equal-to-threshold](https://github.com/Deeks779/LeetCode/tree/master/1445-number-of-sub-arrays-of-size-k-and-average-greater-than-or-equal-to-threshold) |
 | [1460-number-of-substrings-containing-all-three-characters](https://github.com/Deeks779/LeetCode/tree/master/1460-number-of-substrings-containing-all-three-characters) |
 | [1586-longest-subarray-of-1s-after-deleting-one-element](https://github.com/Deeks779/LeetCode/tree/master/1586-longest-subarray-of-1s-after-deleting-one-element) |
 | [1755-defuse-the-bomb](https://github.com/Deeks779/LeetCode/tree/master/1755-defuse-the-bomb) |

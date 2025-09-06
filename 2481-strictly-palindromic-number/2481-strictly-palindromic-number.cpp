@@ -3,7 +3,7 @@ public:
     bool isStrictlyPalindromic(int n) {
         for(int i=2;i<=n-2;i++){
             string s=toBase(n,i);
-            int l=0,r=s.size();
+            int l=0,r=s.size()-1;
             while(l<=r){
                 if(s[l]!=s[r]) return false;
                 l++;r--;

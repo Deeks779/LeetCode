@@ -6,6 +6,7 @@ public:
             int l=0,r=s.size();
             while(l<=r){
                 if(s[l]!=s[r]) return false;
+                l++;r--;
             }
         }
         return false;

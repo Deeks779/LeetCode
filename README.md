@@ -123,6 +123,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [2231-find-first-palindromic-string-in-the-array](https://github.com/Deeks779/LeetCode/tree/master/2231-find-first-palindromic-string-in-the-array) |
 | [2271-rearrange-array-elements-by-sign](https://github.com/Deeks779/LeetCode/tree/master/2271-rearrange-array-elements-by-sign) |
 | [2277-count-equal-and-divisible-pairs-in-an-array](https://github.com/Deeks779/LeetCode/tree/master/2277-count-equal-and-divisible-pairs-in-an-array) |
+| [2320-find-all-k-distant-indices-in-an-array](https://github.com/Deeks779/LeetCode/tree/master/2320-find-all-k-distant-indices-in-an-array) |
 | [2442-number-of-arithmetic-triplets](https://github.com/Deeks779/LeetCode/tree/master/2442-number-of-arithmetic-triplets) |
 | [2447-merge-similar-items](https://github.com/Deeks779/LeetCode/tree/master/2447-merge-similar-items) |
 | [2561-number-of-distinct-averages](https://github.com/Deeks779/LeetCode/tree/master/2561-number-of-distinct-averages) |
@@ -218,6 +219,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [2128-reverse-prefix-of-word](https://github.com/Deeks779/LeetCode/tree/master/2128-reverse-prefix-of-word) |
 | [2231-find-first-palindromic-string-in-the-array](https://github.com/Deeks779/LeetCode/tree/master/2231-find-first-palindromic-string-in-the-array) |
 | [2271-rearrange-array-elements-by-sign](https://github.com/Deeks779/LeetCode/tree/master/2271-rearrange-array-elements-by-sign) |
+| [2320-find-all-k-distant-indices-in-an-array](https://github.com/Deeks779/LeetCode/tree/master/2320-find-all-k-distant-indices-in-an-array) |
 | [2442-number-of-arithmetic-triplets](https://github.com/Deeks779/LeetCode/tree/master/2442-number-of-arithmetic-triplets) |
 | [2481-strictly-palindromic-number](https://github.com/Deeks779/LeetCode/tree/master/2481-strictly-palindromic-number) |
 | [2561-number-of-distinct-averages](https://github.com/Deeks779/LeetCode/tree/master/2561-number-of-distinct-averages) |

@@ -9,6 +9,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0141-linked-list-cycle](https://github.com/Deeks779/LeetCode/tree/master/0141-linked-list-cycle) |
 | [0202-happy-number](https://github.com/Deeks779/LeetCode/tree/master/0202-happy-number) |
 | [0349-intersection-of-two-arrays](https://github.com/Deeks779/LeetCode/tree/master/0349-intersection-of-two-arrays) |
+| [0782-jewels-and-stones](https://github.com/Deeks779/LeetCode/tree/master/0782-jewels-and-stones) |
 | [1227-number-of-equivalent-domino-pairs](https://github.com/Deeks779/LeetCode/tree/master/1227-number-of-equivalent-domino-pairs) |
 | [1370-count-number-of-nice-subarrays](https://github.com/Deeks779/LeetCode/tree/master/1370-count-number-of-nice-subarrays) |
 | [1460-number-of-substrings-containing-all-three-characters](https://github.com/Deeks779/LeetCode/tree/master/1460-number-of-substrings-containing-all-three-characters) |
@@ -33,6 +34,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0345-reverse-vowels-of-a-string](https://github.com/Deeks779/LeetCode/tree/master/0345-reverse-vowels-of-a-string) |
 | [0557-reverse-words-in-a-string-iii](https://github.com/Deeks779/LeetCode/tree/master/0557-reverse-words-in-a-string-iii) |
 | [0657-robot-return-to-origin](https://github.com/Deeks779/LeetCode/tree/master/0657-robot-return-to-origin) |
+| [0782-jewels-and-stones](https://github.com/Deeks779/LeetCode/tree/master/0782-jewels-and-stones) |
 | [0979-di-string-match](https://github.com/Deeks779/LeetCode/tree/master/0979-di-string-match) |
 | [1078-remove-outermost-parentheses](https://github.com/Deeks779/LeetCode/tree/master/1078-remove-outermost-parentheses) |
 | [1205-defanging-an-ip-address](https://github.com/Deeks779/LeetCode/tree/master/1205-defanging-an-ip-address) |

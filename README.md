@@ -17,6 +17,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [2116-count-number-of-pairs-with-absolute-difference-k](https://github.com/Deeks779/LeetCode/tree/master/2116-count-number-of-pairs-with-absolute-difference-k) |
 | [2442-number-of-arithmetic-triplets](https://github.com/Deeks779/LeetCode/tree/master/2442-number-of-arithmetic-triplets) |
 | [2447-merge-similar-items](https://github.com/Deeks779/LeetCode/tree/master/2447-merge-similar-items) |
+| [2524-largest-positive-integer-that-exists-with-its-negative](https://github.com/Deeks779/LeetCode/tree/master/2524-largest-positive-integer-that-exists-with-its-negative) |
 | [2561-number-of-distinct-averages](https://github.com/Deeks779/LeetCode/tree/master/2561-number-of-distinct-averages) |
 | [2856-count-complete-subarrays-in-an-array](https://github.com/Deeks779/LeetCode/tree/master/2856-count-complete-subarrays-in-an-array) |
 | [3193-maximum-strong-pair-xor-i](https://github.com/Deeks779/LeetCode/tree/master/3193-maximum-strong-pair-xor-i) |
@@ -133,6 +134,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [2320-find-all-k-distant-indices-in-an-array](https://github.com/Deeks779/LeetCode/tree/master/2320-find-all-k-distant-indices-in-an-array) |
 | [2442-number-of-arithmetic-triplets](https://github.com/Deeks779/LeetCode/tree/master/2442-number-of-arithmetic-triplets) |
 | [2447-merge-similar-items](https://github.com/Deeks779/LeetCode/tree/master/2447-merge-similar-items) |
+| [2524-largest-positive-integer-that-exists-with-its-negative](https://github.com/Deeks779/LeetCode/tree/master/2524-largest-positive-integer-that-exists-with-its-negative) |
 | [2561-number-of-distinct-averages](https://github.com/Deeks779/LeetCode/tree/master/2561-number-of-distinct-averages) |
 | [2699-count-the-number-of-fair-pairs](https://github.com/Deeks779/LeetCode/tree/master/2699-count-the-number-of-fair-pairs) |
 | [2714-left-and-right-sum-differences](https://github.com/Deeks779/LeetCode/tree/master/2714-left-and-right-sum-differences) |
@@ -156,6 +158,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1988-minimize-maximum-pair-sum-in-array](https://github.com/Deeks779/LeetCode/tree/master/1988-minimize-maximum-pair-sum-in-array) |
 | [2210-find-target-indices-after-sorting-array](https://github.com/Deeks779/LeetCode/tree/master/2210-find-target-indices-after-sorting-array) |
 | [2447-merge-similar-items](https://github.com/Deeks779/LeetCode/tree/master/2447-merge-similar-items) |
+| [2524-largest-positive-integer-that-exists-with-its-negative](https://github.com/Deeks779/LeetCode/tree/master/2524-largest-positive-integer-that-exists-with-its-negative) |
 | [2561-number-of-distinct-averages](https://github.com/Deeks779/LeetCode/tree/master/2561-number-of-distinct-averages) |
 | [2699-count-the-number-of-fair-pairs](https://github.com/Deeks779/LeetCode/tree/master/2699-count-the-number-of-fair-pairs) |
 | [2917-count-pairs-whose-sum-is-less-than-target](https://github.com/Deeks779/LeetCode/tree/master/2917-count-pairs-whose-sum-is-less-than-target) |
@@ -233,6 +236,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [2320-find-all-k-distant-indices-in-an-array](https://github.com/Deeks779/LeetCode/tree/master/2320-find-all-k-distant-indices-in-an-array) |
 | [2442-number-of-arithmetic-triplets](https://github.com/Deeks779/LeetCode/tree/master/2442-number-of-arithmetic-triplets) |
 | [2481-strictly-palindromic-number](https://github.com/Deeks779/LeetCode/tree/master/2481-strictly-palindromic-number) |
+| [2524-largest-positive-integer-that-exists-with-its-negative](https://github.com/Deeks779/LeetCode/tree/master/2524-largest-positive-integer-that-exists-with-its-negative) |
 | [2561-number-of-distinct-averages](https://github.com/Deeks779/LeetCode/tree/master/2561-number-of-distinct-averages) |
 | [2699-count-the-number-of-fair-pairs](https://github.com/Deeks779/LeetCode/tree/master/2699-count-the-number-of-fair-pairs) |
 | [2816-lexicographically-smallest-palindrome](https://github.com/Deeks779/LeetCode/tree/master/2816-lexicographically-smallest-palindrome) |

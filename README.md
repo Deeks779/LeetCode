@@ -120,6 +120,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1137-height-checker](https://github.com/Deeks779/LeetCode/tree/master/1137-height-checker) |
 | [1227-number-of-equivalent-domino-pairs](https://github.com/Deeks779/LeetCode/tree/master/1227-number-of-equivalent-domino-pairs) |
 | [1293-three-consecutive-odds](https://github.com/Deeks779/LeetCode/tree/master/1293-three-consecutive-odds) |
+| [1313-decompress-run-length-encoded-list](https://github.com/Deeks779/LeetCode/tree/master/1313-decompress-run-length-encoded-list) |
 | [1370-count-number-of-nice-subarrays](https://github.com/Deeks779/LeetCode/tree/master/1370-count-number-of-nice-subarrays) |
 | [1445-number-of-sub-arrays-of-size-k-and-average-greater-than-or-equal-to-threshold](https://github.com/Deeks779/LeetCode/tree/master/1445-number-of-sub-arrays-of-size-k-and-average-greater-than-or-equal-to-threshold) |
 | [1476-count-negative-numbers-in-a-sorted-matrix](https://github.com/Deeks779/LeetCode/tree/master/1476-count-negative-numbers-in-a-sorted-matrix) |

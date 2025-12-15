@@ -148,6 +148,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [2271-rearrange-array-elements-by-sign](https://github.com/Deeks779/LeetCode/tree/master/2271-rearrange-array-elements-by-sign) |
 | [2277-count-equal-and-divisible-pairs-in-an-array](https://github.com/Deeks779/LeetCode/tree/master/2277-count-equal-and-divisible-pairs-in-an-array) |
 | [2320-find-all-k-distant-indices-in-an-array](https://github.com/Deeks779/LeetCode/tree/master/2320-find-all-k-distant-indices-in-an-array) |
+| [2432-the-employee-that-worked-on-the-longest-task](https://github.com/Deeks779/LeetCode/tree/master/2432-the-employee-that-worked-on-the-longest-task) |
 | [2442-number-of-arithmetic-triplets](https://github.com/Deeks779/LeetCode/tree/master/2442-number-of-arithmetic-triplets) |
 | [2447-merge-similar-items](https://github.com/Deeks779/LeetCode/tree/master/2447-merge-similar-items) |
 | [2469-longest-subsequence-with-limited-sum](https://github.com/Deeks779/LeetCode/tree/master/2469-longest-subsequence-with-limited-sum) |

@@ -107,6 +107,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0349-intersection-of-two-arrays](https://github.com/Deeks779/LeetCode/tree/master/0349-intersection-of-two-arrays) |
 | [0400-nth-digit](https://github.com/Deeks779/LeetCode/tree/master/0400-nth-digit) |
 | [1476-count-negative-numbers-in-a-sorted-matrix](https://github.com/Deeks779/LeetCode/tree/master/1476-count-negative-numbers-in-a-sorted-matrix) |
+| [2187-minimum-time-to-complete-trips](https://github.com/Deeks779/LeetCode/tree/master/2187-minimum-time-to-complete-trips) |
 | [2210-find-target-indices-after-sorting-array](https://github.com/Deeks779/LeetCode/tree/master/2210-find-target-indices-after-sorting-array) |
 | [2469-longest-subsequence-with-limited-sum](https://github.com/Deeks779/LeetCode/tree/master/2469-longest-subsequence-with-limited-sum) |
 | [2699-count-the-number-of-fair-pairs](https://github.com/Deeks779/LeetCode/tree/master/2699-count-the-number-of-fair-pairs) |
@@ -151,6 +152,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1988-minimize-maximum-pair-sum-in-array](https://github.com/Deeks779/LeetCode/tree/master/1988-minimize-maximum-pair-sum-in-array) |
 | [2116-count-number-of-pairs-with-absolute-difference-k](https://github.com/Deeks779/LeetCode/tree/master/2116-count-number-of-pairs-with-absolute-difference-k) |
 | [2170-count-number-of-maximum-bitwise-or-subsets](https://github.com/Deeks779/LeetCode/tree/master/2170-count-number-of-maximum-bitwise-or-subsets) |
+| [2187-minimum-time-to-complete-trips](https://github.com/Deeks779/LeetCode/tree/master/2187-minimum-time-to-complete-trips) |
 | [2195-time-needed-to-buy-tickets](https://github.com/Deeks779/LeetCode/tree/master/2195-time-needed-to-buy-tickets) |
 | [2210-find-target-indices-after-sorting-array](https://github.com/Deeks779/LeetCode/tree/master/2210-find-target-indices-after-sorting-array) |
 | [2231-find-first-palindromic-string-in-the-array](https://github.com/Deeks779/LeetCode/tree/master/2231-find-first-palindromic-string-in-the-array) |

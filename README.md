@@ -82,6 +82,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0319-bulb-switcher](https://github.com/Deeks779/LeetCode/tree/master/0319-bulb-switcher) |
 | [0400-nth-digit](https://github.com/Deeks779/LeetCode/tree/master/0400-nth-digit) |
 | [1370-count-number-of-nice-subarrays](https://github.com/Deeks779/LeetCode/tree/master/1370-count-number-of-nice-subarrays) |
+| [1390-four-divisors](https://github.com/Deeks779/LeetCode/tree/master/1390-four-divisors) |
 | [1406-subtract-the-product-and-sum-of-digits-of-an-integer](https://github.com/Deeks779/LeetCode/tree/master/1406-subtract-the-product-and-sum-of-digits-of-an-integer) |
 | [1411-convert-binary-number-in-a-linked-list-to-integer](https://github.com/Deeks779/LeetCode/tree/master/1411-convert-binary-number-in-a-linked-list-to-integer) |
 | [1636-number-of-substrings-with-only-1s](https://github.com/Deeks779/LeetCode/tree/master/1636-number-of-substrings-with-only-1s) |
@@ -137,6 +138,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1313-decompress-run-length-encoded-list](https://github.com/Deeks779/LeetCode/tree/master/1313-decompress-run-length-encoded-list) |
 | [1331-rank-transform-of-an-array](https://github.com/Deeks779/LeetCode/tree/master/1331-rank-transform-of-an-array) |
 | [1370-count-number-of-nice-subarrays](https://github.com/Deeks779/LeetCode/tree/master/1370-count-number-of-nice-subarrays) |
+| [1390-four-divisors](https://github.com/Deeks779/LeetCode/tree/master/1390-four-divisors) |
 | [1445-number-of-sub-arrays-of-size-k-and-average-greater-than-or-equal-to-threshold](https://github.com/Deeks779/LeetCode/tree/master/1445-number-of-sub-arrays-of-size-k-and-average-greater-than-or-equal-to-threshold) |
 | [1476-count-negative-numbers-in-a-sorted-matrix](https://github.com/Deeks779/LeetCode/tree/master/1476-count-negative-numbers-in-a-sorted-matrix) |
 | [1497-design-a-stack-with-increment-operation](https://github.com/Deeks779/LeetCode/tree/master/1497-design-a-stack-with-increment-operation) |

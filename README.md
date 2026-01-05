@@ -153,6 +153,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1895-minimum-number-of-operations-to-move-all-balls-to-each-box](https://github.com/Deeks779/LeetCode/tree/master/1895-minimum-number-of-operations-to-move-all-balls-to-each-box) |
 | [1951-find-the-winner-of-the-circular-game](https://github.com/Deeks779/LeetCode/tree/master/1951-find-the-winner-of-the-circular-game) |
 | [1972-rotating-the-box](https://github.com/Deeks779/LeetCode/tree/master/1972-rotating-the-box) |
+| [1975-maximum-matrix-sum](https://github.com/Deeks779/LeetCode/tree/master/1975-maximum-matrix-sum) |
 | [1988-minimize-maximum-pair-sum-in-array](https://github.com/Deeks779/LeetCode/tree/master/1988-minimize-maximum-pair-sum-in-array) |
 | [2116-count-number-of-pairs-with-absolute-difference-k](https://github.com/Deeks779/LeetCode/tree/master/2116-count-number-of-pairs-with-absolute-difference-k) |
 | [2170-count-number-of-maximum-bitwise-or-subsets](https://github.com/Deeks779/LeetCode/tree/master/2170-count-number-of-maximum-bitwise-or-subsets) |
@@ -327,6 +328,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0011-container-with-most-water](https://github.com/Deeks779/LeetCode/tree/master/0011-container-with-most-water) |
 | [0611-valid-triangle-number](https://github.com/Deeks779/LeetCode/tree/master/0611-valid-triangle-number) |
 | [0979-di-string-match](https://github.com/Deeks779/LeetCode/tree/master/0979-di-string-match) |
+| [1975-maximum-matrix-sum](https://github.com/Deeks779/LeetCode/tree/master/1975-maximum-matrix-sum) |
 | [1988-minimize-maximum-pair-sum-in-array](https://github.com/Deeks779/LeetCode/tree/master/1988-minimize-maximum-pair-sum-in-array) |
 | [2456-construct-smallest-number-from-di-string](https://github.com/Deeks779/LeetCode/tree/master/2456-construct-smallest-number-from-di-string) |
 | [2469-longest-subsequence-with-limited-sum](https://github.com/Deeks779/LeetCode/tree/master/2469-longest-subsequence-with-limited-sum) |
@@ -422,6 +424,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0861-flipping-an-image](https://github.com/Deeks779/LeetCode/tree/master/0861-flipping-an-image) |
 | [1476-count-negative-numbers-in-a-sorted-matrix](https://github.com/Deeks779/LeetCode/tree/master/1476-count-negative-numbers-in-a-sorted-matrix) |
 | [1972-rotating-the-box](https://github.com/Deeks779/LeetCode/tree/master/1972-rotating-the-box) |
+| [1975-maximum-matrix-sum](https://github.com/Deeks779/LeetCode/tree/master/1975-maximum-matrix-sum) |
 ## Trie
 |  |
 | ------- |

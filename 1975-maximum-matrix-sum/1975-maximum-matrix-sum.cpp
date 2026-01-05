@@ -4,10 +4,10 @@ public:
         int n=matrix.size();
         long long minSum=0;
         int count=0;
-        long long smallest=LLONG_MAX;
+        int smallest=INT_MAX;
         for(int i=0;i<n;i++){
             for(int j=0;j<n;j++){
-                long long num=abs(matrix[i][j]);
+                int num=abs(matrix[i][j]);
                 smallest=min(smallest,num);
                 if(matrix[i][j]<0) count++;
                 minSum+=num;

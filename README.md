@@ -61,6 +61,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [3019-furthest-point-from-origin](https://github.com/Deeks779/LeetCode/tree/master/3019-furthest-point-from-origin) |
 | [3163-string-compression-iii](https://github.com/Deeks779/LeetCode/tree/master/3163-string-compression-iii) |
 | [3194-find-words-containing-character](https://github.com/Deeks779/LeetCode/tree/master/3194-find-words-containing-character) |
+| [3330-find-the-original-typed-string-i](https://github.com/Deeks779/LeetCode/tree/master/3330-find-the-original-typed-string-i) |
 | [3379-score-of-a-string](https://github.com/Deeks779/LeetCode/tree/master/3379-score-of-a-string) |
 | [3412-permutation-difference-between-two-strings](https://github.com/Deeks779/LeetCode/tree/master/3412-permutation-difference-between-two-strings) |
 | [3447-clear-digits](https://github.com/Deeks779/LeetCode/tree/master/3447-clear-digits) |

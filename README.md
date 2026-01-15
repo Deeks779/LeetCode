@@ -178,6 +178,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [2714-left-and-right-sum-differences](https://github.com/Deeks779/LeetCode/tree/master/2714-left-and-right-sum-differences) |
 | [2856-count-complete-subarrays-in-an-array](https://github.com/Deeks779/LeetCode/tree/master/2856-count-complete-subarrays-in-an-array) |
 | [2917-count-pairs-whose-sum-is-less-than-target](https://github.com/Deeks779/LeetCode/tree/master/2917-count-pairs-whose-sum-is-less-than-target) |
+| [2943-maximize-area-of-square-hole-in-grid](https://github.com/Deeks779/LeetCode/tree/master/2943-maximize-area-of-square-hole-in-grid) |
 | [3193-maximum-strong-pair-xor-i](https://github.com/Deeks779/LeetCode/tree/master/3193-maximum-strong-pair-xor-i) |
 | [3194-find-words-containing-character](https://github.com/Deeks779/LeetCode/tree/master/3194-find-words-containing-character) |
 | [3321-type-of-triangle](https://github.com/Deeks779/LeetCode/tree/master/3321-type-of-triangle) |
@@ -206,6 +207,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [2561-number-of-distinct-averages](https://github.com/Deeks779/LeetCode/tree/master/2561-number-of-distinct-averages) |
 | [2699-count-the-number-of-fair-pairs](https://github.com/Deeks779/LeetCode/tree/master/2699-count-the-number-of-fair-pairs) |
 | [2917-count-pairs-whose-sum-is-less-than-target](https://github.com/Deeks779/LeetCode/tree/master/2917-count-pairs-whose-sum-is-less-than-target) |
+| [2943-maximize-area-of-square-hole-in-grid](https://github.com/Deeks779/LeetCode/tree/master/2943-maximize-area-of-square-hole-in-grid) |
 | [3321-type-of-triangle](https://github.com/Deeks779/LeetCode/tree/master/3321-type-of-triangle) |
 | [3471-minimum-average-of-smallest-and-largest-elements](https://github.com/Deeks779/LeetCode/tree/master/3471-minimum-average-of-smallest-and-largest-elements) |
 ## Counting Sort

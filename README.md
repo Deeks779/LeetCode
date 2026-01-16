@@ -23,6 +23,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [2524-largest-positive-integer-that-exists-with-its-negative](https://github.com/Deeks779/LeetCode/tree/master/2524-largest-positive-integer-that-exists-with-its-negative) |
 | [2561-number-of-distinct-averages](https://github.com/Deeks779/LeetCode/tree/master/2561-number-of-distinct-averages) |
 | [2856-count-complete-subarrays-in-an-array](https://github.com/Deeks779/LeetCode/tree/master/2856-count-complete-subarrays-in-an-array) |
+| [2975-maximum-square-area-by-removing-fences-from-a-field](https://github.com/Deeks779/LeetCode/tree/master/2975-maximum-square-area-by-removing-fences-from-a-field) |
 | [3193-maximum-strong-pair-xor-i](https://github.com/Deeks779/LeetCode/tree/master/3193-maximum-strong-pair-xor-i) |
 | [3412-permutation-difference-between-two-strings](https://github.com/Deeks779/LeetCode/tree/master/3412-permutation-difference-between-two-strings) |
 | [3581-the-two-sneaky-numbers-of-digitville](https://github.com/Deeks779/LeetCode/tree/master/3581-the-two-sneaky-numbers-of-digitville) |
@@ -179,6 +180,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [2856-count-complete-subarrays-in-an-array](https://github.com/Deeks779/LeetCode/tree/master/2856-count-complete-subarrays-in-an-array) |
 | [2917-count-pairs-whose-sum-is-less-than-target](https://github.com/Deeks779/LeetCode/tree/master/2917-count-pairs-whose-sum-is-less-than-target) |
 | [2943-maximize-area-of-square-hole-in-grid](https://github.com/Deeks779/LeetCode/tree/master/2943-maximize-area-of-square-hole-in-grid) |
+| [2975-maximum-square-area-by-removing-fences-from-a-field](https://github.com/Deeks779/LeetCode/tree/master/2975-maximum-square-area-by-removing-fences-from-a-field) |
 | [3193-maximum-strong-pair-xor-i](https://github.com/Deeks779/LeetCode/tree/master/3193-maximum-strong-pair-xor-i) |
 | [3194-find-words-containing-character](https://github.com/Deeks779/LeetCode/tree/master/3194-find-words-containing-character) |
 | [3321-type-of-triangle](https://github.com/Deeks779/LeetCode/tree/master/3321-type-of-triangle) |
@@ -325,6 +327,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [2170-count-number-of-maximum-bitwise-or-subsets](https://github.com/Deeks779/LeetCode/tree/master/2170-count-number-of-maximum-bitwise-or-subsets) |
 | [2442-number-of-arithmetic-triplets](https://github.com/Deeks779/LeetCode/tree/master/2442-number-of-arithmetic-triplets) |
 | [2507-number-of-common-factors](https://github.com/Deeks779/LeetCode/tree/master/2507-number-of-common-factors) |
+| [2975-maximum-square-area-by-removing-fences-from-a-field](https://github.com/Deeks779/LeetCode/tree/master/2975-maximum-square-area-by-removing-fences-from-a-field) |
 ## Combinatorics
 |  |
 | ------- |

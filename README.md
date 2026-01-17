@@ -130,6 +130,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0349-intersection-of-two-arrays](https://github.com/Deeks779/LeetCode/tree/master/0349-intersection-of-two-arrays) |
 | [0611-valid-triangle-number](https://github.com/Deeks779/LeetCode/tree/master/0611-valid-triangle-number) |
 | [0682-baseball-game](https://github.com/Deeks779/LeetCode/tree/master/0682-baseball-game) |
+| [0747-largest-number-at-least-twice-of-others](https://github.com/Deeks779/LeetCode/tree/master/0747-largest-number-at-least-twice-of-others) |
 | [0861-flipping-an-image](https://github.com/Deeks779/LeetCode/tree/master/0861-flipping-an-image) |
 | [0941-sort-array-by-parity](https://github.com/Deeks779/LeetCode/tree/master/0941-sort-array-by-parity) |
 | [0953-verifying-an-alien-dictionary](https://github.com/Deeks779/LeetCode/tree/master/0953-verifying-an-alien-dictionary) |
@@ -197,6 +198,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0075-sort-colors](https://github.com/Deeks779/LeetCode/tree/master/0075-sort-colors) |
 | [0349-intersection-of-two-arrays](https://github.com/Deeks779/LeetCode/tree/master/0349-intersection-of-two-arrays) |
 | [0611-valid-triangle-number](https://github.com/Deeks779/LeetCode/tree/master/0611-valid-triangle-number) |
+| [0747-largest-number-at-least-twice-of-others](https://github.com/Deeks779/LeetCode/tree/master/0747-largest-number-at-least-twice-of-others) |
 | [0941-sort-array-by-parity](https://github.com/Deeks779/LeetCode/tree/master/0941-sort-array-by-parity) |
 | [0976-largest-perimeter-triangle](https://github.com/Deeks779/LeetCode/tree/master/0976-largest-perimeter-triangle) |
 | [0987-reveal-cards-in-increasing-order](https://github.com/Deeks779/LeetCode/tree/master/0987-reveal-cards-in-increasing-order) |

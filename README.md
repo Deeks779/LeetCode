@@ -28,6 +28,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [2975-maximum-square-area-by-removing-fences-from-a-field](https://github.com/Deeks779/LeetCode/tree/master/2975-maximum-square-area-by-removing-fences-from-a-field) |
 | [3193-maximum-strong-pair-xor-i](https://github.com/Deeks779/LeetCode/tree/master/3193-maximum-strong-pair-xor-i) |
 | [3412-permutation-difference-between-two-strings](https://github.com/Deeks779/LeetCode/tree/master/3412-permutation-difference-between-two-strings) |
+| [3507-minimum-pair-removal-to-sort-array-i](https://github.com/Deeks779/LeetCode/tree/master/3507-minimum-pair-removal-to-sort-array-i) |
 | [3581-the-two-sneaky-numbers-of-digitville](https://github.com/Deeks779/LeetCode/tree/master/3581-the-two-sneaky-numbers-of-digitville) |
 | [3753-maximum-difference-between-even-and-odd-frequency-i](https://github.com/Deeks779/LeetCode/tree/master/3753-maximum-difference-between-even-and-odd-frequency-i) |
 ## String
@@ -192,6 +193,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [3321-type-of-triangle](https://github.com/Deeks779/LeetCode/tree/master/3321-type-of-triangle) |
 | [3471-minimum-average-of-smallest-and-largest-elements](https://github.com/Deeks779/LeetCode/tree/master/3471-minimum-average-of-smallest-and-largest-elements) |
 | [3475-minimum-operations-to-make-binary-array-elements-equal-to-one-i](https://github.com/Deeks779/LeetCode/tree/master/3475-minimum-operations-to-make-binary-array-elements-equal-to-one-i) |
+| [3507-minimum-pair-removal-to-sort-array-i](https://github.com/Deeks779/LeetCode/tree/master/3507-minimum-pair-removal-to-sort-array-i) |
 | [3577-count-the-number-of-computer-unlocking-permutations](https://github.com/Deeks779/LeetCode/tree/master/3577-count-the-number-of-computer-unlocking-permutations) |
 | [3581-the-two-sneaky-numbers-of-digitville](https://github.com/Deeks779/LeetCode/tree/master/3581-the-two-sneaky-numbers-of-digitville) |
 | [3747-maximum-difference-between-adjacent-elements-in-a-circular-array](https://github.com/Deeks779/LeetCode/tree/master/3747-maximum-difference-between-adjacent-elements-in-a-circular-array) |
@@ -247,6 +249,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1411-convert-binary-number-in-a-linked-list-to-integer](https://github.com/Deeks779/LeetCode/tree/master/1411-convert-binary-number-in-a-linked-list-to-integer) |
 | [1765-merge-in-between-linked-lists](https://github.com/Deeks779/LeetCode/tree/master/1765-merge-in-between-linked-lists) |
 | [2299-merge-nodes-in-between-zeros](https://github.com/Deeks779/LeetCode/tree/master/2299-merge-nodes-in-between-zeros) |
+| [3507-minimum-pair-removal-to-sort-array-i](https://github.com/Deeks779/LeetCode/tree/master/3507-minimum-pair-removal-to-sort-array-i) |
 ## Number Theory
 |  |
 | ------- |
@@ -270,6 +273,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [2299-merge-nodes-in-between-zeros](https://github.com/Deeks779/LeetCode/tree/master/2299-merge-nodes-in-between-zeros) |
 | [2886-faulty-keyboard](https://github.com/Deeks779/LeetCode/tree/master/2886-faulty-keyboard) |
 | [3447-clear-digits](https://github.com/Deeks779/LeetCode/tree/master/3447-clear-digits) |
+| [3507-minimum-pair-removal-to-sort-array-i](https://github.com/Deeks779/LeetCode/tree/master/3507-minimum-pair-removal-to-sort-array-i) |
 | [3600-find-the-k-th-character-in-string-game-i](https://github.com/Deeks779/LeetCode/tree/master/3600-find-the-k-th-character-in-string-game-i) |
 | [3768-check-if-digits-are-equal-in-string-after-operations-i](https://github.com/Deeks779/LeetCode/tree/master/3768-check-if-digits-are-equal-in-string-after-operations-i) |
 ## Two Pointers
@@ -420,6 +424,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [2447-merge-similar-items](https://github.com/Deeks779/LeetCode/tree/master/2447-merge-similar-items) |
+| [3507-minimum-pair-removal-to-sort-array-i](https://github.com/Deeks779/LeetCode/tree/master/3507-minimum-pair-removal-to-sort-array-i) |
 ## Prefix Sum
 |  |
 | ------- |
@@ -437,6 +442,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0023-merge-k-sorted-lists](https://github.com/Deeks779/LeetCode/tree/master/0023-merge-k-sorted-lists) |
+| [3507-minimum-pair-removal-to-sort-array-i](https://github.com/Deeks779/LeetCode/tree/master/3507-minimum-pair-removal-to-sort-array-i) |
 ## Merge Sort
 |  |
 | ------- |
@@ -461,4 +467,8 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0028-find-the-index-of-the-first-occurrence-in-a-string](https://github.com/Deeks779/LeetCode/tree/master/0028-find-the-index-of-the-first-occurrence-in-a-string) |
+## Doubly-Linked List
+|  |
+| ------- |
+| [3507-minimum-pair-removal-to-sort-array-i](https://github.com/Deeks779/LeetCode/tree/master/3507-minimum-pair-removal-to-sort-array-i) |
 <!---LeetCode Topics End-->

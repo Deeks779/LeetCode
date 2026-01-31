@@ -117,6 +117,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0349-intersection-of-two-arrays](https://github.com/Deeks779/LeetCode/tree/master/0349-intersection-of-two-arrays) |
 | [0400-nth-digit](https://github.com/Deeks779/LeetCode/tree/master/0400-nth-digit) |
 | [0611-valid-triangle-number](https://github.com/Deeks779/LeetCode/tree/master/0611-valid-triangle-number) |
+| [0744-find-smallest-letter-greater-than-target](https://github.com/Deeks779/LeetCode/tree/master/0744-find-smallest-letter-greater-than-target) |
 | [1346-check-if-n-and-its-double-exist](https://github.com/Deeks779/LeetCode/tree/master/1346-check-if-n-and-its-double-exist) |
 | [1476-count-negative-numbers-in-a-sorted-matrix](https://github.com/Deeks779/LeetCode/tree/master/1476-count-negative-numbers-in-a-sorted-matrix) |
 | [2187-minimum-time-to-complete-trips](https://github.com/Deeks779/LeetCode/tree/master/2187-minimum-time-to-complete-trips) |
@@ -136,6 +137,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0349-intersection-of-two-arrays](https://github.com/Deeks779/LeetCode/tree/master/0349-intersection-of-two-arrays) |
 | [0611-valid-triangle-number](https://github.com/Deeks779/LeetCode/tree/master/0611-valid-triangle-number) |
 | [0682-baseball-game](https://github.com/Deeks779/LeetCode/tree/master/0682-baseball-game) |
+| [0744-find-smallest-letter-greater-than-target](https://github.com/Deeks779/LeetCode/tree/master/0744-find-smallest-letter-greater-than-target) |
 | [0747-largest-number-at-least-twice-of-others](https://github.com/Deeks779/LeetCode/tree/master/0747-largest-number-at-least-twice-of-others) |
 | [0861-flipping-an-image](https://github.com/Deeks779/LeetCode/tree/master/0861-flipping-an-image) |
 | [0941-sort-array-by-parity](https://github.com/Deeks779/LeetCode/tree/master/0941-sort-array-by-parity) |

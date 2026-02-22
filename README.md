@@ -26,6 +26,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [2561-number-of-distinct-averages](https://github.com/Deeks779/LeetCode/tree/master/2561-number-of-distinct-averages) |
 | [2856-count-complete-subarrays-in-an-array](https://github.com/Deeks779/LeetCode/tree/master/2856-count-complete-subarrays-in-an-array) |
 | [2975-maximum-square-area-by-removing-fences-from-a-field](https://github.com/Deeks779/LeetCode/tree/master/2975-maximum-square-area-by-removing-fences-from-a-field) |
+| [3158-find-the-xor-of-numbers-which-appear-twice](https://github.com/Deeks779/LeetCode/tree/master/3158-find-the-xor-of-numbers-which-appear-twice) |
 | [3193-maximum-strong-pair-xor-i](https://github.com/Deeks779/LeetCode/tree/master/3193-maximum-strong-pair-xor-i) |
 | [3412-permutation-difference-between-two-strings](https://github.com/Deeks779/LeetCode/tree/master/3412-permutation-difference-between-two-strings) |
 | [3507-minimum-pair-removal-to-sort-array-i](https://github.com/Deeks779/LeetCode/tree/master/3507-minimum-pair-removal-to-sort-array-i) |
@@ -200,6 +201,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [2943-maximize-area-of-square-hole-in-grid](https://github.com/Deeks779/LeetCode/tree/master/2943-maximize-area-of-square-hole-in-grid) |
 | [2975-maximum-square-area-by-removing-fences-from-a-field](https://github.com/Deeks779/LeetCode/tree/master/2975-maximum-square-area-by-removing-fences-from-a-field) |
 | [3010-divide-an-array-into-subarrays-with-minimum-cost-i](https://github.com/Deeks779/LeetCode/tree/master/3010-divide-an-array-into-subarrays-with-minimum-cost-i) |
+| [3158-find-the-xor-of-numbers-which-appear-twice](https://github.com/Deeks779/LeetCode/tree/master/3158-find-the-xor-of-numbers-which-appear-twice) |
 | [3193-maximum-strong-pair-xor-i](https://github.com/Deeks779/LeetCode/tree/master/3193-maximum-strong-pair-xor-i) |
 | [3194-find-words-containing-character](https://github.com/Deeks779/LeetCode/tree/master/3194-find-words-containing-character) |
 | [3321-type-of-triangle](https://github.com/Deeks779/LeetCode/tree/master/3321-type-of-triangle) |
@@ -416,6 +418,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1018-binary-prefix-divisible-by-5](https://github.com/Deeks779/LeetCode/tree/master/1018-binary-prefix-divisible-by-5) |
 | [1037-minimum-number-of-k-consecutive-bit-flips](https://github.com/Deeks779/LeetCode/tree/master/1037-minimum-number-of-k-consecutive-bit-flips) |
 | [2170-count-number-of-maximum-bitwise-or-subsets](https://github.com/Deeks779/LeetCode/tree/master/2170-count-number-of-maximum-bitwise-or-subsets) |
+| [3158-find-the-xor-of-numbers-which-appear-twice](https://github.com/Deeks779/LeetCode/tree/master/3158-find-the-xor-of-numbers-which-appear-twice) |
 | [3193-maximum-strong-pair-xor-i](https://github.com/Deeks779/LeetCode/tree/master/3193-maximum-strong-pair-xor-i) |
 | [3475-minimum-operations-to-make-binary-array-elements-equal-to-one-i](https://github.com/Deeks779/LeetCode/tree/master/3475-minimum-operations-to-make-binary-array-elements-equal-to-one-i) |
 | [3600-find-the-k-th-character-in-string-game-i](https://github.com/Deeks779/LeetCode/tree/master/3600-find-the-k-th-character-in-string-game-i) |

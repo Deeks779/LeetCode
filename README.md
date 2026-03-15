@@ -107,6 +107,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [2752-sum-multiples](https://github.com/Deeks779/LeetCode/tree/master/2752-sum-multiples) |
 | [3172-divisible-and-non-divisible-sums-difference](https://github.com/Deeks779/LeetCode/tree/master/3172-divisible-and-non-divisible-sums-difference) |
 | [3321-type-of-triangle](https://github.com/Deeks779/LeetCode/tree/master/3321-type-of-triangle) |
+| [3432-count-partitions-with-even-sum-difference](https://github.com/Deeks779/LeetCode/tree/master/3432-count-partitions-with-even-sum-difference) |
 | [3567-convert-date-to-binary](https://github.com/Deeks779/LeetCode/tree/master/3567-convert-date-to-binary) |
 | [3577-count-the-number-of-computer-unlocking-permutations](https://github.com/Deeks779/LeetCode/tree/master/3577-count-the-number-of-computer-unlocking-permutations) |
 | [3581-the-two-sneaky-numbers-of-digitville](https://github.com/Deeks779/LeetCode/tree/master/3581-the-two-sneaky-numbers-of-digitville) |
@@ -210,6 +211,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [3321-type-of-triangle](https://github.com/Deeks779/LeetCode/tree/master/3321-type-of-triangle) |
 | [3379-transformed-array](https://github.com/Deeks779/LeetCode/tree/master/3379-transformed-array) |
 | [3427-sum-of-variable-length-subarrays](https://github.com/Deeks779/LeetCode/tree/master/3427-sum-of-variable-length-subarrays) |
+| [3432-count-partitions-with-even-sum-difference](https://github.com/Deeks779/LeetCode/tree/master/3432-count-partitions-with-even-sum-difference) |
 | [3471-minimum-average-of-smallest-and-largest-elements](https://github.com/Deeks779/LeetCode/tree/master/3471-minimum-average-of-smallest-and-largest-elements) |
 | [3475-minimum-operations-to-make-binary-array-elements-equal-to-one-i](https://github.com/Deeks779/LeetCode/tree/master/3475-minimum-operations-to-make-binary-array-elements-equal-to-one-i) |
 | [3507-minimum-pair-removal-to-sort-array-i](https://github.com/Deeks779/LeetCode/tree/master/3507-minimum-pair-removal-to-sort-array-i) |
@@ -465,6 +467,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [2469-longest-subsequence-with-limited-sum](https://github.com/Deeks779/LeetCode/tree/master/2469-longest-subsequence-with-limited-sum) |
 | [2714-left-and-right-sum-differences](https://github.com/Deeks779/LeetCode/tree/master/2714-left-and-right-sum-differences) |
 | [3427-sum-of-variable-length-subarrays](https://github.com/Deeks779/LeetCode/tree/master/3427-sum-of-variable-length-subarrays) |
+| [3432-count-partitions-with-even-sum-difference](https://github.com/Deeks779/LeetCode/tree/master/3432-count-partitions-with-even-sum-difference) |
 | [3475-minimum-operations-to-make-binary-array-elements-equal-to-one-i](https://github.com/Deeks779/LeetCode/tree/master/3475-minimum-operations-to-make-binary-array-elements-equal-to-one-i) |
 ## Divide and Conquer
 |  |

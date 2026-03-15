@@ -209,6 +209,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [3194-find-words-containing-character](https://github.com/Deeks779/LeetCode/tree/master/3194-find-words-containing-character) |
 | [3321-type-of-triangle](https://github.com/Deeks779/LeetCode/tree/master/3321-type-of-triangle) |
 | [3379-transformed-array](https://github.com/Deeks779/LeetCode/tree/master/3379-transformed-array) |
+| [3427-sum-of-variable-length-subarrays](https://github.com/Deeks779/LeetCode/tree/master/3427-sum-of-variable-length-subarrays) |
 | [3471-minimum-average-of-smallest-and-largest-elements](https://github.com/Deeks779/LeetCode/tree/master/3471-minimum-average-of-smallest-and-largest-elements) |
 | [3475-minimum-operations-to-make-binary-array-elements-equal-to-one-i](https://github.com/Deeks779/LeetCode/tree/master/3475-minimum-operations-to-make-binary-array-elements-equal-to-one-i) |
 | [3507-minimum-pair-removal-to-sort-array-i](https://github.com/Deeks779/LeetCode/tree/master/3507-minimum-pair-removal-to-sort-array-i) |
@@ -463,6 +464,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1895-minimum-number-of-operations-to-move-all-balls-to-each-box](https://github.com/Deeks779/LeetCode/tree/master/1895-minimum-number-of-operations-to-move-all-balls-to-each-box) |
 | [2469-longest-subsequence-with-limited-sum](https://github.com/Deeks779/LeetCode/tree/master/2469-longest-subsequence-with-limited-sum) |
 | [2714-left-and-right-sum-differences](https://github.com/Deeks779/LeetCode/tree/master/2714-left-and-right-sum-differences) |
+| [3427-sum-of-variable-length-subarrays](https://github.com/Deeks779/LeetCode/tree/master/3427-sum-of-variable-length-subarrays) |
 | [3475-minimum-operations-to-make-binary-array-elements-equal-to-one-i](https://github.com/Deeks779/LeetCode/tree/master/3475-minimum-operations-to-make-binary-array-elements-equal-to-one-i) |
 ## Divide and Conquer
 |  |

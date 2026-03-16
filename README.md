@@ -64,6 +64,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [2124-check-if-all-as-appears-before-all-bs](https://github.com/Deeks779/LeetCode/tree/master/2124-check-if-all-as-appears-before-all-bs) |
 | [2128-reverse-prefix-of-word](https://github.com/Deeks779/LeetCode/tree/master/2128-reverse-prefix-of-word) |
 | [2231-find-first-palindromic-string-in-the-array](https://github.com/Deeks779/LeetCode/tree/master/2231-find-first-palindromic-string-in-the-array) |
+| [2391-minimum-amount-of-time-to-collect-garbage](https://github.com/Deeks779/LeetCode/tree/master/2391-minimum-amount-of-time-to-collect-garbage) |
 | [2456-construct-smallest-number-from-di-string](https://github.com/Deeks779/LeetCode/tree/master/2456-construct-smallest-number-from-di-string) |
 | [2678-number-of-senior-citizens](https://github.com/Deeks779/LeetCode/tree/master/2678-number-of-senior-citizens) |
 | [2816-lexicographically-smallest-palindrome](https://github.com/Deeks779/LeetCode/tree/master/2816-lexicographically-smallest-palindrome) |
@@ -191,6 +192,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [2271-rearrange-array-elements-by-sign](https://github.com/Deeks779/LeetCode/tree/master/2271-rearrange-array-elements-by-sign) |
 | [2277-count-equal-and-divisible-pairs-in-an-array](https://github.com/Deeks779/LeetCode/tree/master/2277-count-equal-and-divisible-pairs-in-an-array) |
 | [2320-find-all-k-distant-indices-in-an-array](https://github.com/Deeks779/LeetCode/tree/master/2320-find-all-k-distant-indices-in-an-array) |
+| [2391-minimum-amount-of-time-to-collect-garbage](https://github.com/Deeks779/LeetCode/tree/master/2391-minimum-amount-of-time-to-collect-garbage) |
 | [2432-the-employee-that-worked-on-the-longest-task](https://github.com/Deeks779/LeetCode/tree/master/2432-the-employee-that-worked-on-the-longest-task) |
 | [2442-number-of-arithmetic-triplets](https://github.com/Deeks779/LeetCode/tree/master/2442-number-of-arithmetic-triplets) |
 | [2447-merge-similar-items](https://github.com/Deeks779/LeetCode/tree/master/2447-merge-similar-items) |
@@ -464,6 +466,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1370-count-number-of-nice-subarrays](https://github.com/Deeks779/LeetCode/tree/master/1370-count-number-of-nice-subarrays) |
 | [1480-running-sum-of-1d-array](https://github.com/Deeks779/LeetCode/tree/master/1480-running-sum-of-1d-array) |
 | [1895-minimum-number-of-operations-to-move-all-balls-to-each-box](https://github.com/Deeks779/LeetCode/tree/master/1895-minimum-number-of-operations-to-move-all-balls-to-each-box) |
+| [2391-minimum-amount-of-time-to-collect-garbage](https://github.com/Deeks779/LeetCode/tree/master/2391-minimum-amount-of-time-to-collect-garbage) |
 | [2469-longest-subsequence-with-limited-sum](https://github.com/Deeks779/LeetCode/tree/master/2469-longest-subsequence-with-limited-sum) |
 | [2714-left-and-right-sum-differences](https://github.com/Deeks779/LeetCode/tree/master/2714-left-and-right-sum-differences) |
 | [3427-sum-of-variable-length-subarrays](https://github.com/Deeks779/LeetCode/tree/master/3427-sum-of-variable-length-subarrays) |

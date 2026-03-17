@@ -177,6 +177,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1570-final-prices-with-a-special-discount-in-a-shop](https://github.com/Deeks779/LeetCode/tree/master/1570-final-prices-with-a-special-discount-in-a-shop) |
 | [1586-longest-subarray-of-1s-after-deleting-one-element](https://github.com/Deeks779/LeetCode/tree/master/1586-longest-subarray-of-1s-after-deleting-one-element) |
 | [1588-sum-of-all-odd-length-subarrays](https://github.com/Deeks779/LeetCode/tree/master/1588-sum-of-all-odd-length-subarrays) |
+| [1732-find-the-highest-altitude](https://github.com/Deeks779/LeetCode/tree/master/1732-find-the-highest-altitude) |
 | [1755-defuse-the-bomb](https://github.com/Deeks779/LeetCode/tree/master/1755-defuse-the-bomb) |
 | [1802-number-of-students-unable-to-eat-lunch](https://github.com/Deeks779/LeetCode/tree/master/1802-number-of-students-unable-to-eat-lunch) |
 | [1895-minimum-number-of-operations-to-move-all-balls-to-each-box](https://github.com/Deeks779/LeetCode/tree/master/1895-minimum-number-of-operations-to-move-all-balls-to-each-box) |
@@ -468,6 +469,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1370-count-number-of-nice-subarrays](https://github.com/Deeks779/LeetCode/tree/master/1370-count-number-of-nice-subarrays) |
 | [1480-running-sum-of-1d-array](https://github.com/Deeks779/LeetCode/tree/master/1480-running-sum-of-1d-array) |
 | [1588-sum-of-all-odd-length-subarrays](https://github.com/Deeks779/LeetCode/tree/master/1588-sum-of-all-odd-length-subarrays) |
+| [1732-find-the-highest-altitude](https://github.com/Deeks779/LeetCode/tree/master/1732-find-the-highest-altitude) |
 | [1895-minimum-number-of-operations-to-move-all-balls-to-each-box](https://github.com/Deeks779/LeetCode/tree/master/1895-minimum-number-of-operations-to-move-all-balls-to-each-box) |
 | [2391-minimum-amount-of-time-to-collect-garbage](https://github.com/Deeks779/LeetCode/tree/master/2391-minimum-amount-of-time-to-collect-garbage) |
 | [2469-longest-subsequence-with-limited-sum](https://github.com/Deeks779/LeetCode/tree/master/2469-longest-subsequence-with-limited-sum) |

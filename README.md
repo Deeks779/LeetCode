@@ -104,6 +104,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1951-find-the-winner-of-the-circular-game](https://github.com/Deeks779/LeetCode/tree/master/1951-find-the-winner-of-the-circular-game) |
 | [2383-add-two-integers](https://github.com/Deeks779/LeetCode/tree/master/2383-add-two-integers) |
 | [2481-strictly-palindromic-number](https://github.com/Deeks779/LeetCode/tree/master/2481-strictly-palindromic-number) |
+| [2485-find-the-pivot-integer](https://github.com/Deeks779/LeetCode/tree/master/2485-find-the-pivot-integer) |
 | [2491-smallest-even-multiple](https://github.com/Deeks779/LeetCode/tree/master/2491-smallest-even-multiple) |
 | [2507-number-of-common-factors](https://github.com/Deeks779/LeetCode/tree/master/2507-number-of-common-factors) |
 | [2752-sum-multiples](https://github.com/Deeks779/LeetCode/tree/master/2752-sum-multiples) |
@@ -473,6 +474,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1895-minimum-number-of-operations-to-move-all-balls-to-each-box](https://github.com/Deeks779/LeetCode/tree/master/1895-minimum-number-of-operations-to-move-all-balls-to-each-box) |
 | [2391-minimum-amount-of-time-to-collect-garbage](https://github.com/Deeks779/LeetCode/tree/master/2391-minimum-amount-of-time-to-collect-garbage) |
 | [2469-longest-subsequence-with-limited-sum](https://github.com/Deeks779/LeetCode/tree/master/2469-longest-subsequence-with-limited-sum) |
+| [2485-find-the-pivot-integer](https://github.com/Deeks779/LeetCode/tree/master/2485-find-the-pivot-integer) |
 | [2714-left-and-right-sum-differences](https://github.com/Deeks779/LeetCode/tree/master/2714-left-and-right-sum-differences) |
 | [3427-sum-of-variable-length-subarrays](https://github.com/Deeks779/LeetCode/tree/master/3427-sum-of-variable-length-subarrays) |
 | [3432-count-partitions-with-even-sum-difference](https://github.com/Deeks779/LeetCode/tree/master/3432-count-partitions-with-even-sum-difference) |

@@ -198,6 +198,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [2277-count-equal-and-divisible-pairs-in-an-array](https://github.com/Deeks779/LeetCode/tree/master/2277-count-equal-and-divisible-pairs-in-an-array) |
 | [2320-find-all-k-distant-indices-in-an-array](https://github.com/Deeks779/LeetCode/tree/master/2320-find-all-k-distant-indices-in-an-array) |
 | [2391-minimum-amount-of-time-to-collect-garbage](https://github.com/Deeks779/LeetCode/tree/master/2391-minimum-amount-of-time-to-collect-garbage) |
+| [2428-maximum-sum-of-an-hourglass](https://github.com/Deeks779/LeetCode/tree/master/2428-maximum-sum-of-an-hourglass) |
 | [2432-the-employee-that-worked-on-the-longest-task](https://github.com/Deeks779/LeetCode/tree/master/2432-the-employee-that-worked-on-the-longest-task) |
 | [2442-number-of-arithmetic-triplets](https://github.com/Deeks779/LeetCode/tree/master/2442-number-of-arithmetic-triplets) |
 | [2447-merge-similar-items](https://github.com/Deeks779/LeetCode/tree/master/2447-merge-similar-items) |
@@ -475,6 +476,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1732-find-the-highest-altitude](https://github.com/Deeks779/LeetCode/tree/master/1732-find-the-highest-altitude) |
 | [1895-minimum-number-of-operations-to-move-all-balls-to-each-box](https://github.com/Deeks779/LeetCode/tree/master/1895-minimum-number-of-operations-to-move-all-balls-to-each-box) |
 | [2391-minimum-amount-of-time-to-collect-garbage](https://github.com/Deeks779/LeetCode/tree/master/2391-minimum-amount-of-time-to-collect-garbage) |
+| [2428-maximum-sum-of-an-hourglass](https://github.com/Deeks779/LeetCode/tree/master/2428-maximum-sum-of-an-hourglass) |
 | [2469-longest-subsequence-with-limited-sum](https://github.com/Deeks779/LeetCode/tree/master/2469-longest-subsequence-with-limited-sum) |
 | [2485-find-the-pivot-integer](https://github.com/Deeks779/LeetCode/tree/master/2485-find-the-pivot-integer) |
 | [2714-left-and-right-sum-differences](https://github.com/Deeks779/LeetCode/tree/master/2714-left-and-right-sum-differences) |
@@ -502,6 +504,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1476-count-negative-numbers-in-a-sorted-matrix](https://github.com/Deeks779/LeetCode/tree/master/1476-count-negative-numbers-in-a-sorted-matrix) |
 | [1972-rotating-the-box](https://github.com/Deeks779/LeetCode/tree/master/1972-rotating-the-box) |
 | [1975-maximum-matrix-sum](https://github.com/Deeks779/LeetCode/tree/master/1975-maximum-matrix-sum) |
+| [2428-maximum-sum-of-an-hourglass](https://github.com/Deeks779/LeetCode/tree/master/2428-maximum-sum-of-an-hourglass) |
 ## Trie
 |  |
 | ------- |

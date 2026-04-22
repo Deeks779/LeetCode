@@ -18,6 +18,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1370-count-number-of-nice-subarrays](https://github.com/Deeks779/LeetCode/tree/master/1370-count-number-of-nice-subarrays) |
 | [1460-number-of-substrings-containing-all-three-characters](https://github.com/Deeks779/LeetCode/tree/master/1460-number-of-substrings-containing-all-three-characters) |
 | [1987-substrings-of-size-three-with-distinct-characters](https://github.com/Deeks779/LeetCode/tree/master/1987-substrings-of-size-three-with-distinct-characters) |
+| [2053-kth-distinct-string-in-an-array](https://github.com/Deeks779/LeetCode/tree/master/2053-kth-distinct-string-in-an-array) |
 | [2116-count-number-of-pairs-with-absolute-difference-k](https://github.com/Deeks779/LeetCode/tree/master/2116-count-number-of-pairs-with-absolute-difference-k) |
 | [2154-keep-multiplying-found-values-by-two](https://github.com/Deeks779/LeetCode/tree/master/2154-keep-multiplying-found-values-by-two) |
 | [2442-number-of-arithmetic-triplets](https://github.com/Deeks779/LeetCode/tree/master/2442-number-of-arithmetic-triplets) |
@@ -61,6 +62,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1894-merge-strings-alternately](https://github.com/Deeks779/LeetCode/tree/master/1894-merge-strings-alternately) |
 | [1895-minimum-number-of-operations-to-move-all-balls-to-each-box](https://github.com/Deeks779/LeetCode/tree/master/1895-minimum-number-of-operations-to-move-all-balls-to-each-box) |
 | [1987-substrings-of-size-three-with-distinct-characters](https://github.com/Deeks779/LeetCode/tree/master/1987-substrings-of-size-three-with-distinct-characters) |
+| [2053-kth-distinct-string-in-an-array](https://github.com/Deeks779/LeetCode/tree/master/2053-kth-distinct-string-in-an-array) |
 | [2124-check-if-all-as-appears-before-all-bs](https://github.com/Deeks779/LeetCode/tree/master/2124-check-if-all-as-appears-before-all-bs) |
 | [2128-reverse-prefix-of-word](https://github.com/Deeks779/LeetCode/tree/master/2128-reverse-prefix-of-word) |
 | [2231-find-first-palindromic-string-in-the-array](https://github.com/Deeks779/LeetCode/tree/master/2231-find-first-palindromic-string-in-the-array) |
@@ -187,6 +189,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1972-rotating-the-box](https://github.com/Deeks779/LeetCode/tree/master/1972-rotating-the-box) |
 | [1975-maximum-matrix-sum](https://github.com/Deeks779/LeetCode/tree/master/1975-maximum-matrix-sum) |
 | [1988-minimize-maximum-pair-sum-in-array](https://github.com/Deeks779/LeetCode/tree/master/1988-minimize-maximum-pair-sum-in-array) |
+| [2053-kth-distinct-string-in-an-array](https://github.com/Deeks779/LeetCode/tree/master/2053-kth-distinct-string-in-an-array) |
 | [2116-count-number-of-pairs-with-absolute-difference-k](https://github.com/Deeks779/LeetCode/tree/master/2116-count-number-of-pairs-with-absolute-difference-k) |
 | [2154-keep-multiplying-found-values-by-two](https://github.com/Deeks779/LeetCode/tree/master/2154-keep-multiplying-found-values-by-two) |
 | [2170-count-number-of-maximum-bitwise-or-subsets](https://github.com/Deeks779/LeetCode/tree/master/2170-count-number-of-maximum-bitwise-or-subsets) |
@@ -261,6 +264,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1137-height-checker](https://github.com/Deeks779/LeetCode/tree/master/1137-height-checker) |
 | [1227-number-of-equivalent-domino-pairs](https://github.com/Deeks779/LeetCode/tree/master/1227-number-of-equivalent-domino-pairs) |
 | [1987-substrings-of-size-three-with-distinct-characters](https://github.com/Deeks779/LeetCode/tree/master/1987-substrings-of-size-three-with-distinct-characters) |
+| [2053-kth-distinct-string-in-an-array](https://github.com/Deeks779/LeetCode/tree/master/2053-kth-distinct-string-in-an-array) |
 | [2116-count-number-of-pairs-with-absolute-difference-k](https://github.com/Deeks779/LeetCode/tree/master/2116-count-number-of-pairs-with-absolute-difference-k) |
 | [3019-furthest-point-from-origin](https://github.com/Deeks779/LeetCode/tree/master/3019-furthest-point-from-origin) |
 | [3753-maximum-difference-between-even-and-odd-frequency-i](https://github.com/Deeks779/LeetCode/tree/master/3753-maximum-difference-between-even-and-odd-frequency-i) |

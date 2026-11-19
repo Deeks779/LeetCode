@@ -73,6 +73,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [2678-number-of-senior-citizens](https://github.com/Deeks779/LeetCode/tree/master/2678-number-of-senior-citizens) |
 | [2816-lexicographically-smallest-palindrome](https://github.com/Deeks779/LeetCode/tree/master/2816-lexicographically-smallest-palindrome) |
 | [2886-faulty-keyboard](https://github.com/Deeks779/LeetCode/tree/master/2886-faulty-keyboard) |
+| [2914-minimum-number-of-changes-to-make-binary-string-beautiful](https://github.com/Deeks779/LeetCode/tree/master/2914-minimum-number-of-changes-to-make-binary-string-beautiful) |
 | [3019-furthest-point-from-origin](https://github.com/Deeks779/LeetCode/tree/master/3019-furthest-point-from-origin) |
 | [3163-string-compression-iii](https://github.com/Deeks779/LeetCode/tree/master/3163-string-compression-iii) |
 | [3194-find-words-containing-character](https://github.com/Deeks779/LeetCode/tree/master/3194-find-words-containing-character) |
